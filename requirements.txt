@@ -8,5 +8,7 @@ Answer both parts of question 15-1 in the TRY IT YOURSELF on page 315.
 Remember to do both parts. The first five values in a list are easily done creating the lists for the input and output values by hand. 
 Not so much so for the first 5000 cubic values. Should use the automatic method.
 
+plt.show()
+import matplotlib.pyplot as plt
 
 
