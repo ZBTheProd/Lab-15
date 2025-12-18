@@ -1,0 +1,12 @@
+1.Plot Other Graphs:
+Take one of your favorite math formulas and plot it. 
+The routine involves creating two lists. For example, to draw a circle calculate successive values in a sequence, range(360). 
+Convert to radians and the put the math.sin() and math.cos() in their relative lists. Experiment with different styles and thicknesses. 
+
+2.The Cubes:
+Answer both parts of question 15-1 in the TRY IT YOURSELF on page 315. 
+Remember to do both parts. The first five values in a list are easily done creating the lists for the input and output values by hand. 
+Not so much so for the first 5000 cubic values. Should use the automatic method.
+
+
+
